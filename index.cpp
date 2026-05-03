@@ -62,7 +62,7 @@ void displayPatients()
     Patient *temp = head;
     if (temp == NULL)
     {
-        cout << "No patie." << endl;
+        cout << "No patient" << endl;
         return;
     }
 
